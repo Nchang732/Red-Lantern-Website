@@ -1,0 +1,10 @@
+body{
+    width: 800px;
+    background-color: rgb(99, 11, 11);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1em;
+    color: beige;
+    margin: 0px auto;
+    margin-top: 50 px;
+    padding: 50px;
+}
